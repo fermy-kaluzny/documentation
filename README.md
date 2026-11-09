@@ -1,8 +1,8 @@
-# doc_tech_fermy_kaluzhny
+# documentation
 
 Static legal documents of FERMY KALUZNY SP. Z O.O., published with GitHub Pages.
 
-Live site: <https://hdeskapp.github.io/doc_tech_fermy_kaluzhny/>
+Live site: <https://fermy-kaluzny.github.io/documentation/>
 
 | Page | File |
 | --- | --- |
@@ -10,8 +10,9 @@ Live site: <https://hdeskapp.github.io/doc_tech_fermy_kaluzhny/>
 | Privacy Policy | `privacy.html` |
 | User Agreement | `terms.html` |
 
-Styling is shared via `styles.css`. The documents link to each other by their
-absolute GitHub Pages URLs, so keep those in sync if the repository is renamed.
+Styling is shared via `styles.css`; every page carries the same top bar linking
+the documents. The documents link to each other by their absolute GitHub Pages
+URLs, so keep those in sync if the repository is renamed or moved.
 
 ## Deployment
 
